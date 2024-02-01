@@ -5,4 +5,4 @@
 ```
 python3 mac_changer.py
 ```
-![[mac_address_image.png]]
+![[mac_changer_image.png]]
